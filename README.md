@@ -1,2 +1,3 @@
 # PROSAC
-an  algorithm  based on the RANSAC, code from opencv
+an algorithm based on RANSAC, code from opencv
+related paper: Matching with PROSAC – Progressive Sample Consensus
